@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lbg0001
 - 👀 I’m interested in IT,DT
-- 🌱 I’m currently learning PHP/JS/cloud computing
+- 🌱 I’m currently learning PHP/JS/cloud computing/git
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me lbg0001@163.com
 
